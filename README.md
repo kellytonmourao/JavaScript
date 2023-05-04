@@ -1,2 +1,2 @@
 # JavaScript
- Conteúdo referente ao curso de JavaScript
+ Conteúdo referente ao curso de JavaScript.
